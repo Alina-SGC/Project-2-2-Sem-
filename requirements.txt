@@ -1,1 +1,15 @@
+Модули из стандартной библиотеки:
+asyncio
+logging
+os
+pathlib
+sys
+json
+asyncio
 
+Сторонние модули:
+aiogram==3.20.0.post0
+dotenv==0.9.9
+typing-inspection==0.4.1
+typing_extensions==4.14.0
+requests==2.32.3
